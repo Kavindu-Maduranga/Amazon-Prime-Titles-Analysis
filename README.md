@@ -1,4 +1,4 @@
-# Amazon-Prime-Titles-Analysis - Power BI
+# Amazon Prime Titles Analysis - Power BI
 
 ![Amazon Prime Movies   TV Shows Dashboard](https://github.com/Kavindu-Maduranga/Amazon-Prime-Titles-Analysis/assets/174862031/e8289c65-fea4-4ee7-8b94-53045353fb67)
 
